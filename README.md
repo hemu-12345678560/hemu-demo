@@ -1,4 +1,4 @@
 # hemu-demo
 This is my first Repository.
 <br>
-Author - Hemant Kumar
+Author - Hemant Kumar(Khalsa College)
